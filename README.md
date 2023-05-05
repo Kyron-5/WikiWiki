@@ -1,1 +1,6 @@
-# Wiki
+# 説明
+# Description
+
+個人的なWikiページのための空間で開発を実施するようなつもりもありません。  
+
+This is praivate page.
